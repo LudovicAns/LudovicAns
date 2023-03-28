@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-🔎 Actuellement à la recherche d'une alternance de concepteur et développeur d'applications (CDA) <br>✍️ J'apprend de façon poussé et autonome: HTML, CSS, JS, TypeScript, Node, React<br>🎓 J'utilise également Java, C, Python
+🔎 Actuellement à la recherche d'une alternance de concepteur et développeur d'applications (CDA) <br>✍️ J'apprend de façon poussé et autonome: Sass, TypeScript, Node, React, NextJS<br>🎓 J'utilise également Java, C, Python, HTML, CSS, JS
 
 
 ## 🌐 Réseaux sociaux:
