@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋,je suis Ludovic</h1>
+<h1 align="center">Hey 👋, je suis Ludovic</h1>
 <h3 align="center">Un développeur fullstack français 🇫🇷 (cocorico 🐔) qui vise l'expertise dans le domaine de la Data et de l'IA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludovicans&label=Profile%20views&color=0e75b6&style=flat" alt="ludovicans" /> </p>
